@@ -1,0 +1,11 @@
+tifffile
+Cartopy
+h5py
+Keras
+numpy
+opencv-python
+pandas
+Pillow
+scikit-image
+tables
+tensorflow==1.15
